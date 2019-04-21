@@ -1,15 +1,15 @@
 {
-    "name": "Bot_step1",
+    "name": "Bot_step2",
     "services": [
         {
             "type":"endpoint",
-            "name":"bot_step1",
+            "name":"bot_step2",
             "endpoint":"http://localhost:3978/api/messages",
             "appId":"",
             "appPassword":"",
-            "id":"Bot_step1"
+            "id":"Bot_step2"
         }
     ],
     "padlock": "",
-    "version": "2.0",
+    "version": "2.0"
 }
